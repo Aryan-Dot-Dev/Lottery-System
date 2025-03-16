@@ -1,0 +1,20 @@
+{
+  "wallets": [
+    {
+      "address": "0xdc8e85749644396349AD8e1FE26e71880466a218",    
+      "privateKey": "0xd71f03f713aa76e3cd0bd073399f3f54c27256060c79a9df75c7fd9b0f9b8314",
+      "signTransaction": "[Function: signTransaction]",
+      "sign": "[Function: sign]",
+      "encrypt": "[Function: encrypt]"
+    }
+  ],
+  "_accountProvider": {
+    "create": "[Function: createWithContext]",
+    "privateKeyToAccount": "[Function: privateKeyToAccountWithContext]",
+    "decrypt": "[Function: decryptWithContext]"
+  },
+  "_addressMap": {
+    "0xdc8e85749644396349ad8e1fe26e71880466a218": 0
+  },
+  "_defaultKeyName": "web3js_wallet"
+}

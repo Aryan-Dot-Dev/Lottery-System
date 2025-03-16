@@ -1,0 +1,13 @@
+[{
+    "language": "Solidity",
+    "sources": {
+        "MyContract.sol": { "content": "source" }
+    },
+    "settings": {
+        "outputSelection": {
+            "*": {
+                "*": ["abi", "evm.bytecode"]
+            }
+        }
+    }
+}]
